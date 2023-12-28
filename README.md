@@ -1,0 +1,2 @@
+# Image Captioning with Transformers: Transforming Visual Content into Audio for the Visually Impaired
+ Professionally leveraging the synergy of Convolutional Neural Networks (CNN) for image feature extraction and Transformers for advanced natural language generation, our project, developed using the PyTorch framework, empowers individuals with visual impairments by providing them with access to comprehensive audio descriptions of visual content, showcasing our commitment to inclusive technology solutions
