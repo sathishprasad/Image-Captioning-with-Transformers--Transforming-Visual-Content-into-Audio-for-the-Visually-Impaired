@@ -1,5 +1,9 @@
 # Image Captioning with Transformers: Transforming Visual Content into Audio for the Visually Impaired
 
+## Sample Output
+
+https://github.com/sathishprasad/Image-Captioning-with-Transformers--Transforming-Visual-Content-into-Audio-for-the-Visually-Impaired/assets/62458381/6438d148-7ef8-4bf1-b2a6-d2843f042247
+
 ## Project Overview
 
 This project, titled "Image Captioning with Transformers," was developed as the final coursework for the subject Modern Analytics. The primary focus was on leveraging Convolutional Neural Networks (CNN) in conjunction with transformers to facilitate image captioning. CNNs were employed to process image features, while transformers were utilized for generating descriptive captions.
@@ -32,3 +36,5 @@ While this project represents a significant achievement, future enhancements cou
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
