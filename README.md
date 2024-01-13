@@ -6,7 +6,7 @@ https://github.com/sathishprasad/Image-Captioning-with-Transformers--Transformin
 
 ## Project Overview
 
-This project, titled "Image Captioning with Transformers," was developed as the final coursework for the subject Modern Analytics. The primary focus was on leveraging Convolutional Neural Networks (CNN) in conjunction with transformers to facilitate image captioning. CNNs were employed to process image features, while transformers were utilized for generating descriptive captions.
+The "Image Captioning with Transformers" project was initially undertaken as a team assignment for our Modern Analytics course, focusing on the integration of Convolutional Neural Networks (CNNs) and transformers for image captioning. During this phase, we primarily used CNNs for image feature extraction and transformers for caption generation. However, over the break, I took the initiative to further refine and enhance the project's accuracy, to improve the overall performance of the image captioning system.
 
 ## Technologies and Tools Used
 
